@@ -1,12 +1,14 @@
+
 {
-  "description": "Making A Random Github profile ?!",
-  
+    "description": "A Sub-domain for my profile page.",
+    "repo": "https://github.com/4STA69/4STA69.github.io",
     "owner": {
-        "username": "4STA69",
-        "email": "zaxxmo0@gmail.com"
+      "username": "4STA69",
+      "email": "zaxxmo0@gmail.com",
+      "Twitter": "4STA69"
     },
     "record": {
-        "TXT": "dh=aba507b296134216316553735e9c92411e17f315",
-        "CNAME": "4sta69.github.io"
+      "TXT": "dh=aba507b296134216316553735e9c92411e17f315",
+      "CNAME": "https://4sta69.github.io/"
     }
-} 
+  }
